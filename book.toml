@@ -6,7 +6,7 @@ src = "src"
 title = "Beast Mode"
 
 [output.html]
-default-theme = "dark"
+default-theme = "navy"
 preferred-dark-theme = "ayu"
 no-section-label = true
 

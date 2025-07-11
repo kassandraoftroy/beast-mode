@@ -14,7 +14,7 @@ Install mdBook globally
 cargo install mdbook
 ```
 
-NOTE: need to install rust ? try this `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh` or see [here](https://www.rust-lang.org/tools/install)
+*NOTE: need to install rust first ? try this `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh` or see [here](https://www.rust-lang.org/tools/install)*
 
 ## Develop / View
 
